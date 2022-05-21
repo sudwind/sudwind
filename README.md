@@ -3,16 +3,17 @@
 #### I'm Pablo,
 #### A Full-Stack Engineer based in Mendoza, Argentina
 
-##### About me, I guess
+#### About me, I guess
 
-- Studying Systems Engineering @ Universidad Tecnologica Nacional - FRM
-- Also working at @ensolvers
+- Studying Systems Engineering @ Universidad Tecnologica Nacional - FRM <span style="font-size:12px">(and yes I've been at it for a while)</span>
+- Also working at [@ensolvers](https://github.com/ensolvers)
 
-##### Things I know a bit of
-(and that may just mean that I experimented with them a bit)
+#### Things I know a bit of
+<span style="font-size:12px">(and that may either mean that I experimented with them a bit, or that I worked with them in a professional capacity)</span>
 <div align="center">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
     <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt ="AWS" width="60" height="32"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="HTML5" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="40"/>
@@ -28,7 +29,7 @@
     <img src="https://github.com/devicons/devicon/raw/master/icons/opengl/opengl-plain.svg" alt="OpenGL" width="40" height="40"/>
 </div>
 
-##### More stuff
+#### More stuff
 
 - Why sudwind? -- I like German, I am located in south america, and I just wanted something that sounded cool I guess.
 
