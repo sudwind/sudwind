@@ -1,12 +1,19 @@
 ### Hello there 👋
-
-#### I'm Pablo,
-#### A Full-Stack Engineer based in Mendoza, Argentina
+<img src="/assets/img/version_control.svg" align="right" width="300" />
+<p>
+I'm Pablo, a Full-Stack Engineer based in Mendoza, Argentina
+</p>
 
 #### About me, I guess
 
 - Studying Systems Engineering @ Universidad Tecnologica Nacional - FRM <span style="font-size:12px">(and yes I've been at it for a while)</span>
 - Also working at [@ensolvers](https://github.com/ensolvers)
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 #### Things I know a bit of
 <span style="font-size:12px">(and that may either mean that I experimented with them a bit, or that I worked with them in a professional capacity)</span>
