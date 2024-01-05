@@ -7,7 +7,6 @@ I'm Pablo, a Full-Stack Engineer based in Mendoza, Argentina
 #### About me, I guess
 
 - Studying Systems Engineering @ Universidad Tecnologica Nacional - FRM <span style="font-size:12px">(and yes I've been at it for a while)</span>
-- Also working at [@ensolvers](https://github.com/ensolvers)
 <br />
 <br />
 <br />
