@@ -1,12 +1,12 @@
 ### Hello there 👋
 <img src="/assets/img/version_control.svg" align="right" width="300" />
 <p>
-I'm Pablo, a Full-Stack Engineer based in Mendoza, Argentina
+I'm Pablo, a Software Engineer based in Mendoza, Argentina
 </p>
 
 #### About me, I guess
+- Currently working at Naranja X (a local fintech) as a Senior Software Engineer
 
-- Studying Systems Engineering @ Universidad Tecnologica Nacional - FRM <span style="font-size:12px">(and yes I've been at it for a while)</span>
 <br />
 <br />
 <br />
@@ -37,8 +37,6 @@ I'm Pablo, a Full-Stack Engineer based in Mendoza, Argentina
 
 #### More stuff
 
-- Why sudwind? -- I like German, I am located in south america, and I just wanted something that sounded cool I guess.
+- I'll probably go back to work on android some day, I currently have a Samsung Galaxy Z Fold 5 and a Motorola Edge 40 Pro, and I've really itching to do something about it
 
-- Why some repos have references to Japanese stuff? -- Because I like Japanese culture and because sometimes it's just easier to remember.
-
-- You worked on Android open source before, will you work back on it? -- It depends, I originally worked on it because my devices were already outdated and underpowered when I bought them, ever since I got what I consider a powerful enough device I just never felt the need to go back to it. However, I currently have a Moto Edge 20 Pro, and I don't seem to find many custom ROMs for it.
+- I also do some emulation work here and there, just haven't released anything publicly
